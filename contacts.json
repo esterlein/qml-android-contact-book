@@ -1,0 +1,20 @@
+{
+"Contacts":
+[{"Name":"Alice","Phone":"+41111111111","Email":"alice@mail.com"}, {"Name":"Bob","Phone":"+42222222222","Email":"bob@mail.com"}, {"Name":"Eve","Phone":"+43333333333","Email":"eve@mail.com"},
+{"Name":"Yana","Phone":"+79500054864","Email":"yana@mail.com"},
+{"Name":"Alice","Phone":"+41111111111","Email":"alice@mail.com"},
+{"Name":"Bob","Phone":"+42222222222","Email":"bob@mail.com"},
+{"Name":"Eve","Phone":"+43333333333","Email":"eve@mail.com"},
+{"Name":"Alice","Phone":"+41111111111","Email":"alice@mail.com"},
+{"Name":"Bob","Phone":"+42222222222","Email":"bob@mail.com"},
+{"Name":"Eve","Phone":"+43333333333","Email":"eve@mail.com"},
+{"Name":"Alice","Phone":"+41111111111","Email":"alice@mail.com"},
+{"Name":"Bob","Phone":"+42222222222","Email":"bob@mail.com"},
+{"Name":"Eve","Phone":"+43333333333","Email":"eve@mail.com"},
+{"Name":"Alice","Phone":"+41111111111","Email":"alice@mail.com"},
+{"Name":"Bob","Phone":"+42222222222","Email":"bob@mail.com"},
+{"Name":"Eve","Phone":"+43333333333","Email":"eve@mail.com"},
+{"Name":"Alice","Phone":"+41111111111","Email":"alice@mail.com"},
+{"Name":"Bob","Phone":"+42222222222","Email":"bob@mail.com"},
+{"Name":"Eve","Phone":"+43333333333","Email":"eve@mail.com"}]
+}

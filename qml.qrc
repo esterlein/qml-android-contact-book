@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>contacts.json</file>
+        <file>Contact.qml</file>
+        <file>Data.qml</file>
+    </qresource>
+</RCC>
